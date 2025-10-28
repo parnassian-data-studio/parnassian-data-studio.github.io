@@ -9,7 +9,7 @@ description: "Website for Parnassian Data Studio / Parnassian Solutions, LLC. Th
 # Team names, titles and social links
 people:
   - name: Tim Farkas
-    pic: 1
+    pic: tim-farkas
     position: Data Scientist
     social:
       - title: linkedin
